@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/NewPageStarted/Form1.cs) (VB: [Form1.vb](./VB/NewPageStarted/Form1.vb))
+* [Program.cs](./CS/NewPageStarted/Program.cs) (VB: [Program.vb](./VB/NewPageStarted/Program.vb))
+* [XtraReport1.cs](./CS/NewPageStarted/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/NewPageStarted/XtraReport1.vb))
+<!-- default file list end -->
 # How to detect that the new page is being created in the BeforePrint event handler
 
 
